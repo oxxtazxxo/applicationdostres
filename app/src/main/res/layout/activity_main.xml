@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="1dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/scheduling"
+        android:textColor="#01f692"
+        android:textSize="40sp"
+        android:layout_marginStart="70dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#000000"
+        android:gravity="center_horizontal"
+        android:text="@string/horizontal_line"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="3dp"
+        android:layout_height="675dp"
+        android:layout_marginLeft="100dp"
+        android:background="#000000"
+        android:gravity="center_vertical"
+        android:text="@string/vertical_line"
+        android:textSize="25sp"
+        android:layout_marginStart="100dp" />
+
+    <TextView
+        android:layout_width="102dp"
+        android:layout_height="4dp"
+        android:layout_marginTop="-625dp"
+        android:background="#000000"
+        android:gravity="center_horizontal"
+        android:text="@string/horizontal_line_2"
+        android:textSize="25sp" />
+
+
+
+</LinearLayout>

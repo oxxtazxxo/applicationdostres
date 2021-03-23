@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scheduling">SCHEDULING</string>
+    <string name="horizontal_line">Horizontal Line</string>
+    <string name="vertical_line">Vertical Line</string>
+    <string name="horizontal_line_2">Horizontal line 2</string>
+</resources>
